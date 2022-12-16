@@ -1,0 +1,4 @@
+-printing
+-user input
+-length method len()
+-variables 

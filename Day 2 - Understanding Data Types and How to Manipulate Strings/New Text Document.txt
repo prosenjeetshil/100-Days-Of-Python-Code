@@ -1,0 +1,4 @@
+- primitive data types
+- type error, type checking, type conversion
+- arith operator
+- number manipulation and f string

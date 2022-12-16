@@ -1,0 +1,4 @@
+- control flow w if else and conditional operator
+- nested if anf elif 
+- multiple if
+- logical operator
